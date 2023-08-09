@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # Counter-App-Using-Hooks
+![image](https://github.com/Kajal-Punjabi/Counter-App-Using-Hooks/assets/134935631/1fd48d98-e996-40de-9271-ebe3c6af0477)
+
 This is a counter app using React which increments, decrements and resets the number accordingly.
 =======
 # Getting Started with Create React App
